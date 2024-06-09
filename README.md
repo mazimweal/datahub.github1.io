@@ -1,6 +1,6 @@
 ---
 datapackage:
-  title: Welcome to your template dataset page!
+  title: Makerere University GIScentre dataset page!
   description: This is a template for publishing your dataset with Datahub Cloud.
   created: 2024-01-01
   updated: 2024-01-31
